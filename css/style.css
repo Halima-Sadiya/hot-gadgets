@@ -1,0 +1,46 @@
+.top{
+    margin-top: 30px;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+p{
+    font-size: 20px;
+    color: grey;
+}
+
+.buy-btn{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 8px;
+    
+}
+
+.container h6{
+    color: rgb(255, 145, 0);
+    float: right;
+}
+
+.card img{
+    width: 50%;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-body p{
+    font-size: 15px;
+}
+
+.card {
+    margin-right: 50px;
+    margin-top: 70px;
+    box-shadow: 5px 10px  15px rgb(196, 190, 190);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
